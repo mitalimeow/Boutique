@@ -1,0 +1,69 @@
+#hea{
+    font-weight: 900;
+    font-size:90px;
+    text-align: center;
+    color:aliceblue;
+    border-style: solid;
+    border-width: 20px;
+    margin-top: 50px;
+    margin-left: 300px;
+    margin-right: 300px;
+    background-image: url("image.jpg");
+    font-family: "Jersey 10", sans-serif;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+#mess{
+
+    text-align: center;
+    /* transform: translateY(70px); */
+    font-size: 30px;
+    color:whitesmoke;
+    font-family: "Pacifico", cursive;
+}
+
+/* #search{
+    transform: translateX(675px);
+    width: 100px;
+    height:80px;
+    border-width: 10px;
+    border-radius: 10px;
+    
+} */
+
+#search{
+    align-self: center;
+    transform: translateX(650px);
+    width: 175px;
+    height:80px;
+    background-color: rgb(250, 232, 253);
+    border-width: 20px;
+    border-radius: 0px;
+    border-style:groove;
+    border-color: rgb(187, 83, 168);
+    font-family: "Boldonse",system-ui;
+    color: rgb(49, 26, 72);
+
+
+}
+form:hover{
+    transform: scale(1.2,1.2);
+}
+/* 
+#fit1{
+    position:absolute;
+    margin-top: 0px;    
+} */
+
+body{
+    background-image: url("purplestage.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+no{
+    padding-top: 0px;
+}
